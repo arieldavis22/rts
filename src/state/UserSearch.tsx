@@ -16,7 +16,6 @@ const UserSearch: React.FC = () => {
         })
 
         setUser(foundUser)
-        
     }
 
     return (
